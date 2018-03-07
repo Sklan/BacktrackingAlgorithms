@@ -1,2 +1,2 @@
-# Backtracking Algorithms
-Implementation of recursive backtracking algorithms in C++ 
+# Mini-Project Repository
+This repo contains some mini-projects in c++.
